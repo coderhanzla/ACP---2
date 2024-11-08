@@ -7,7 +7,7 @@ attendancePercentage = (attendedclasses / totalclasses) * 100
 if attendancePercentage >= 75:
     print("You are eligible for the exam.")
 else:
-    print("You are NOT eligible for the exam.")
+    print("You are NOT eligible for the Exam.")
 
 
 
